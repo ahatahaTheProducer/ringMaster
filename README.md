@@ -8,6 +8,7 @@ make
 ```
 
 in order to get more intuition about the project please read the documentation
+there are input and output files including the expected outputs for corresponding inputs
 there may be mistakes other than handling the exceptions (in this project i didn't get into details of exeption and error handling, my main idea is to comprehend the main idea)
 so if you encounter any or if you have any other idea feel free to reach me
 
